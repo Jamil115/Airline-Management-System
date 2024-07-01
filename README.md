@@ -9,5 +9,3 @@
 ![ja3](https://github.com/Nadvee/Airline-Management-System/assets/101087948/d04985f8-73be-4ff2-8665-0f4f726483cb)
 
 # Airline-Management-System
-# Airline-Management-System
-# Airline-Management-System
